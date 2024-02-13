@@ -1,2 +1,2 @@
-# Pluto Track
+# Pluto
 A simple crypto tracking website
